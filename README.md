@@ -1,48 +1,56 @@
-欢迎 Star✨✨✨
+![avatar](https://raw.githubusercontent.com/TributePaulWalker/PaulWalker/main/PaulWalker.JPG)
 
-特别感谢
+[![TributePaulWalker's GitHub stats](https://github-readme-stats.vercel.app/api?username=TributePaulWalker&show_icons=true&count_private=true&theme=vue)](https://github.com/TributePaulWalker/Profiles)
 
-ConnersHua
-mieqq
-Yachen Liu
-maicoo
-Yichahucha
-Hackl0us
-NobyDa
-VirgilClyne
-KOP-XIAO
-Peng-YM
-Chavy
-nzw9314
-Tartarus2014
-Semporia
-scomper
-Anurag Hazra
-fishingworld
-zqzess
-chouchoui
-HotKids
-lhie1
-zZPiglet
-app2smile
-smartmimi
-LucaLin
-id77
-Privacy protection tools
-Neurogram
-Hausd0rff
-MuTu
-Qure
-Orz-3
-排名不分先后。
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TributePaulWalker&layout=compact&theme=vue)](https://github.com/TributePaulWalker/TributePaulWalker)
 
-感谢各位大佬的规则分享以及辛勤维护！
+## 欢迎 Star✨✨✨
 
-⚠️ 郑重声明：
+## *特别感谢*
 
-本规则基于ConnerosHua的DivineEngine，基于个人使用方便的基础上加入了各位大佬的脚本和规则。感谢各位大佬的辛勤维护和无私付出。在此特别致谢！
+* [ConnersHua](https://github.com/DivineEngine/Profiles/tree/master)
+* [mieqq](https://github.com/mieqq/mieqq)
+* [Yachen Liu](https://github.com/Blankwonder)
+* [maicoo](https://github.com/blankmagic/surge)
+* [Yichahucha](https://github.com/yichahucha/surge/tree/master)
+* [Hackl0us](https://github.com/Hackl0us)
+* [NobyDa](https://github.com/NobyDa)
+* [VirgilClyne](https://github.com/VirgilClyne)
+* [KOP-XIAO](https://github.com/KOP-XIAO)
+* [Peng-YM](https://github.com/Peng-YM)
+* [Chavy](https://github.com/chavyleung)
+* [nzw9314](https://github.com/nzw9314)
+* [Tartarus2014](https://github.com/Tartarus2014)
+* [Semporia](https://github.com/Semporia)
+* [scomper](https://github.com/scomper/Surge)
+* [Anurag Hazra](https://github.com/anuraghazra/github-readme-stats)
+* [fishingworld](https://github.com/fishingworld)
+* [zqzess](https://github.com/zqzess)
+* [chouchoui](https://github.com/chouchoui)
+* [HotKids](https://github.com/HotKids)
+* [lhie1](https://github.com/lhie1/Rules/tree/master)
+* [zZPiglet](https://github.com/zZPiglet/Task/tree/master)
+* [app2smile](https://github.com/app2smile)
+* [smartmimi](https://github.com/smartmimi/conf/tree/master)
+* [LucaLin](https://github.com/LucaLin233)
+* [id77](https://github.com/id77)
+* [Privacy protection tools](https://github.com/privacy-protection-tools/anti-AD)
+* [Neurogram](https://github.com/Neurogram-R)
+* [Hausd0rff](https://github.com/yqc007/QuantumultX)
+* [MuTu](https://github.com/githubdulong/Script)
+* [Qure](https://github.com/Koolson/Qure)
+* [Orz-3](https://github.com/Orz-3)
 
-⚠️ 免责声明：
+## 排名不分先后。
+
+## 感谢各位大佬的规则分享以及辛勤维护！
+
+
+## ⚠️ 郑重声明：
+
+本规则基于ConnerosHua的[DivineEngine](https://github.com/DivineEngine/Profiles/tree/master)，基于个人使用方便的基础上加入了各位大佬的脚本和规则。感谢各位大佬的辛勤维护和无私付出。在此特别致谢！
+
+## ⚠️ 免责声明：
 
 Brian 发布的规则项目中涉及的任何解锁和解密分析脚本仅用于资源共享和学习研究，不能保证其合法性，准确性，完整性和有效性，请根据情况自行判断.
 
@@ -56,7 +64,7 @@ Brian 对任何脚本以及问题概不负责，包括但不限于由任何脚�
 
 任何以任何方式查看此项目的人或直接或间接使用该规则项目的任何代码脚本的使用者都应仔细阅读此声明。Brian 保留随时更改或补充此免责声明的权利。一旦使用并复制了任何相关规则或代码项目的规则，则视为您已接受此免责声明.
 
-⚠️ 请保护好自己：
+## ⚠️ 请保护好自己：
 
 谷歌中英文的搜索体验都优于百度，而刷美剧、ins 追星、去推特看看特朗普也都挺有意思。但是，随着看到的人和事越多，我越发想要在这里说一些话，告诫路过的各位：
 
