@@ -1,6 +1,6 @@
-[![SHHBEST's GitHub stats](https://github-readme-stats.vercel.app/api?username=SHHBEST&show_icons=true&count_private=true&theme=vue)](https://github.com/SHHBEST/quantumultx)
+[![SHHBEST's GitHub stats](https://github-readme-stats.vercel.app/api?username=SHHBEST&show_icons=true&count_private=true&theme=vue)](https://github.com/SHHBEST/Profiles)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SHHBEST&layout=compact&theme=vue)](https://github.com/SHHBEST/quantumultx)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SHHBEST&layout=compact&theme=vue)](https://github.com/SHHBEST/Profiles)
 
 ## 欢迎 Star✨✨✨
 
